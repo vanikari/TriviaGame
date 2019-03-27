@@ -1,0 +1,27 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(../images/background-image.jpeg);
+    color: rgb(184, 76, 76);
+}
+
+.container{
+    background-color: rgb(227, 245, 239,0.8);
+}
+
+.h1, .h4 {
+    color: brown;
+    text-align: center;
+}
+
+.row { 
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    padding: 10px;
+}
+
+.start {
+    width: 250px;
+    height: 150px;
+    background-color: rgb(250, 235, 235);
+}
